@@ -6,3 +6,6 @@ A Flutter Cat Box Application - udemy
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+## Screenshots
+![CatBox App](/assets/project-dashboard.jpg)
